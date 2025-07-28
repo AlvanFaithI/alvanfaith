@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Saat ini sedang belajar: **Java, Laravel, dan Git**
+- 🌱 Saat ini sedang belajar: **HTML, JavaScript, dan CSS**
 - 🔭 Sedang mengerjakan: **projek sekolah dan mini app pribadi**
 - 🤝 Terbuka untuk kolaborasi dalam: **projek open source atau tim pelajar**
 - 📫 Email saya: **alvanfaith.dev@gmail.com**
