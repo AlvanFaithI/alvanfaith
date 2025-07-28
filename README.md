@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Alvan Faith </span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Alvan Faith I</span></h1>
 <h3 align="center">💻 Pelajar RPL di SMK Negeri 2 Bandar Lampung | Front-End Developer Enthusiast</h3>
 
 <p align="center">
@@ -9,11 +9,11 @@
 
 ### 📌 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan mini proyek front-end & latihan CRUD
 - 🌱 Saya sedang belajar: `HTML`, `CSS`, `JavaScript`, dan `MySQL`
-- 🎯 Tujuan saya: Menjadi seorang **Full Stack Web Developer**
-- ⚡ Fun fact: Suka eksplorasi desain UI dan nyoba hal baru
-- 📫 Email: **alvanfaithir@gmail.com**
+- 🛠️ Fokus membangun: Mini project latihan & tugas sekolah
+- 🎯 Tujuan: Menjadi **Full Stack Web Developer**
+- 💬 Fun fact: Suka desain UI & eksplor tools baru
+- 📫 Email: **alvanfaith.dev@gmail.com**
 
 ---
 
@@ -47,24 +47,11 @@
 
 ---
 
-### 🚀 Proyek Unggulan (Contoh)
-
-> Tambahkan projek kamu sendiri di sini ya!
-
-- [🎯 CRUD Mahasiswa - HTML + PHP + MySQL](https://github.com/alvanfaith/crud-mahasiswa)
-- [💰 Aplikasi Kasir Sederhana - JS](https://github.com/alvanfaith/kasir-app)
-- [📚 Sistem Informasi Perpustakaan](https://github.com/alvanfaith/perpustakaan)
-
----
-
-### 🌐 Sosial Media
+### 📱 Temukan Saya di TikTok
 
 <p align="center">
-  <a href="https://instagram.com/alvanfaith">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alvanfaith">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.tiktok.com/@alvanfaith" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
