@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Alvan Faith I</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Alvan Faith </span></h1>
 <h3 align="center">💻 Pelajar RPL di SMK Negeri 2 Bandar Lampung | Front-End Developer Enthusiast</h3>
 
 <p align="center">
