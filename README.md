@@ -1,54 +1,75 @@
-# 👋 Hi, I'm Alvan Faith I
+<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Alvan Faith I</span></h1>
+<h3 align="center">💻 Pelajar RPL di SMK Negeri 2 Bandar Lampung | Front-End Developer Enthusiast</h3>
 
-🎓 Pelajar **Rekayasa Perangkat Lunak** di **SMK Negeri 2 Bandar Lampung**  
-💻 Calon web developer yang senang membangun proyek sederhana dan terus belajar
-
----
-
-## 📌 Tentang Saya
-
-- 🔭 Sedang mengerjakan: Mini project front-end & latihan CRUD
-- 🌱 Saat ini fokus belajar: `HTML`, `CSS`, `JavaScript`, dan `MySQL`
-- 🎯 Tujuan jangka panjang: Menjadi seorang **Full Stack Web Developer**
-- ✉️ Email: alvanfaith.dev@gmail.com
-
----
-
-## 🛠️ Tools & Teknologi
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 Statistik GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvanfaith&show_icons=true&theme=default&hide_title=true&border_radius=6&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanfaith&layout=compact&theme=default&border_radius=6" width="48%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+HTML,+CSS,+JavaScript,+MySQL;Crafting+UI+with+Clean+Design;Dreaming+to+be+a+Full+Stack+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📂 Proyek Unggulan
+### 📌 Tentang Saya
 
-- [🔗 Sistem Informasi Perpustakaan](https://github.com/alvanfaith/perpustakaan)
-- [🔗 Kasir App Sederhana](https://github.com/alvanfaith/kasir-app)
-- [🔗 CRUD Mahasiswa dengan MySQL](https://github.com/alvanfaith/crud-mahasiswa)
-
-> *Catatan: Link hanya contoh, sesuaikan dengan proyek asli kamu*
-
----
-
-## 🌐 Kontak & Sosial
-
-[![Instagram](https://img.shields.io/badge/@alvanfaith-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alvanfaith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvanfaith)
+- 🔭 Saat ini saya sedang mengerjakan mini proyek front-end & latihan CRUD
+- 🌱 Saya sedang belajar: `HTML`, `CSS`, `JavaScript`, dan `MySQL`
+- 🎯 Tujuan saya: Menjadi seorang **Full Stack Web Developer**
+- ⚡ Fun fact: Suka eksplorasi desain UI dan nyoba hal baru
+- 📫 Email: **alvanfaith.dev@gmail.com**
 
 ---
 
-_Thanks for visiting my profile!_ 🙌
+### 🛠️ Tools & Teknologi
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvanfaith&show_icons=true&theme=tokyonight&border_radius=10" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanfaith&layout=compact&theme=tokyonight&border_radius=10" width="47%"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alvanfaith&theme=tokyonight&no-frame=true&column=6" />
+</p>
+
+---
+
+### 🚀 Proyek Unggulan (Contoh)
+
+> Tambahkan projek kamu sendiri di sini ya!
+
+- [🎯 CRUD Mahasiswa - HTML + PHP + MySQL](https://github.com/alvanfaith/crud-mahasiswa)
+- [💰 Aplikasi Kasir Sederhana - JS](https://github.com/alvanfaith/kasir-app)
+- [📚 Sistem Informasi Perpustakaan](https://github.com/alvanfaith/perpustakaan)
+
+---
+
+### 🌐 Sosial Media
+
+<p align="center">
+  <a href="https://instagram.com/alvanfaith">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/alvanfaith">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Keep building. Keep learning. Keep growing.”</em>
+</p>
