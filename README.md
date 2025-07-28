@@ -1,54 +1,60 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://cdn.pixabay.com/photo/2020/04/09/18/38/clouds-5023082_1280.jpg" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 12px;" />
-  <h1 style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; background: rgba(0,0,0,0.4); padding: 0.5em 1em; border-radius: 8px;">
-    Hi 👋, I'm Alvan Faith I
-  </h1>
-</div>
-
+<h1 align="center">Hi 👋, I'm Alvan Faith I</h1>
 <h3 align="center">💻 Pelajar RPL dari SMK Negeri 2 Bandar Lampung</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+HTML,+CSS,+JavaScript,+MySQL;Building+cool+projects;Exploring+the+world+of+tech&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Front-End+Enthusiast;Currently+Learning+HTML%2C+CSS%2C+JS%2C+MySQL;Love+to+Build+Cool+Stuff" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 Sedang belajar: **HTML, CSS, JavaScript, dan MySQL**
-- 🛠️ Aktif mengerjakan: **Project sekolah & latihan pribadi**
-- 🌱 Tujuan: Jadi Frontend / Full Stack Developer
+### 🧠 Tentang Saya
+
+- 🌱 Sedang fokus belajar: **HTML, CSS, JavaScript, dan MySQL**
+- 🛠️ Aktif bikin: **project latihan, UI clone, dan tugas sekolah**
+- 🎯 Target jangka panjang: Jadi **Full-Stack Developer**
+- 💬 Tertarik dalam: Front-End Web Dev, UI Design, Open Source
 - 📫 Email: **alvanfaith.dev@gmail.com**
 
 ---
 
 ### 🛠️ Tools & Teknologi
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvanfaith&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanfaith&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvanfaith&show_icons=true&theme=radical&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanfaith&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophy
+### 🏆 Achievement Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvanfaith&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alvanfaith&theme=matrix&no-frame=true&column=6" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Temukan Saya di:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alvanfaith)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alvanfaith)
+<p align="center">
+  <a href="https://instagram.com/alvanfaith">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/alvanfaith">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
