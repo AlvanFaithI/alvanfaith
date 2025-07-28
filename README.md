@@ -13,7 +13,7 @@
 - 🛠️ Fokus membangun: Mini project latihan & tugas sekolah
 - 🎯 Tujuan: Menjadi **Full Stack Web Developer**
 - 💬 Fun fact: Suka desain UI & eksplor tools baru
-- 📫 Email: **alvanfaith.dev@gmail.com**
+- 📫 Email: **alvanfaithir@gmail.com**
 
 ---
 
