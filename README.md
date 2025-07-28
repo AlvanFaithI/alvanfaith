@@ -13,7 +13,7 @@
 - 🌱 Saya sedang belajar: `HTML`, `CSS`, `JavaScript`, dan `MySQL`
 - 🎯 Tujuan saya: Menjadi seorang **Full Stack Web Developer**
 - ⚡ Fun fact: Suka eksplorasi desain UI dan nyoba hal baru
-- 📫 Email: **alvanfaith.dev@gmail.com**
+- 📫 Email: **alvanfaithir@gmail.com**
 
 ---
 
